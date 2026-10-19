@@ -1,0 +1,9 @@
+﻿Repository: https://github.com/addyosmani/agent-skills
+Commit: aeac41d4d005999432bb7312f7ff06383a91d59d
+Source: skills/doubt-driven-development/SKILL.md
+Related reference inspected: references/orchestration-patterns.md
+License: MIT; LICENSE is an exact byte copy of the repository root license.
+Preserved methods: CLAIM/EXTRACT/DOUBT/RECONCILE/STOP; artifact plus contract without conclusion; adversarial prompt; fresh read-only context; four-class precedence; bounded three cycles; no re-review unchanged artifact; doubt-theater signal; behavioral test as disproof; report review independence honestly.
+Preserved examples: idempotent payment claim; artifact/contract prompt; concurrent duplicate insertion finding.
+Brain adaptations: risk-based and explicit use; no automatic agents or cross-model requirement; no per-cycle authorization ritual; existing authorization persists; self-check is explicitly not independent review; findings and decisions stay in task documents.
+Delivery: addressable ao- name; existing skills and process routes are unchanged.

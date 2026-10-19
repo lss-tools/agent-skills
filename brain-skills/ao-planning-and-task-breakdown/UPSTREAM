@@ -1,0 +1,9 @@
+﻿Repository: https://github.com/addyosmani/agent-skills
+Commit: aeac41d4d005999432bb7312f7ff06383a91d59d
+Source: skills/planning-and-task-breakdown/SKILL.md
+Related reference: references/definition-of-done.md
+License: MIT; LICENSE is an exact byte copy of the repository root license.
+Preserved methods: read-only exploration; dependency graph; vertical slicing; per-task acceptance and verification; sizing signals; early risk; checkpoints; protecting unfinished plans; independence analysis.
+Preserved examples: dependency graph; horizontal versus vertical decomposition; executable block template.
+Brain adaptations: one plan.md in the full task; README decisions; no extra task files or automatic issues; size by independently verifiable outcome; no automatic delegation; existing authorization persists; architect remains the 1C stage.
+Delivery: addressable ao- name; existing skills and process routes are unchanged.

@@ -1,0 +1,8 @@
+﻿Repository: https://github.com/addyosmani/agent-skills
+Commit: aeac41d4d005999432bb7312f7ff06383a91d59d
+Source: skills/deprecation-and-migration/SKILL.md
+License: MIT; LICENSE is an exact byte copy of the repository root license.
+Preserved methods: unique value and maintenance-cost decision; Hyrum's Law; consumer inventory; critical coverage; advisory/compulsory; Churn Rule; incremental consumer transition; zero-usage evidence; strangler/adapter/flag; expand-contract; batched backfill; separately destructive phase; tested return; zombie-code ownership.
+Preserved examples: old-interface adapter; name to full_name additive migration; per-consumer matrix; old/new skill assignment.
+Brain adaptations: addressable parallel addition is not replacement; no automatic stage cutover; real source/index/matrix/assignment evidence for text skills; no invented service metrics; one task plan; honest distinction between schema rollback and data restoration; current authorization persists.
+Delivery: addressable ao- name; existing skills and process routes are unchanged.

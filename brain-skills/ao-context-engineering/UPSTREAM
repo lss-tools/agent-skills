@@ -1,0 +1,8 @@
+﻿Repository: https://github.com/addyosmani/agent-skills
+Commit: aeac41d4d005999432bb7312f7ff06383a91d59d
+Source: skills/context-engineering/SKILL.md
+License: MIT; LICENSE is an exact byte copy of the repository root license.
+Preserved methods: five-level context hierarchy; trust levels; selective include; relevant example and interfaces; hierarchical map; error excerpt; restartable boundaries; 75% budget signal; compress before dropping; protect live constraints; recency ordering; explicit conflict resolution.
+Preserved examples: registration validation context pack; REST versus GraphQL conflict; concise investigation conclusion.
+Brain adaptations: start_task.py and Read Now first; no generated AGENTS edits; no duplicate handoff or project map; existing README/plan hold durable state; no invented project stack or mandatory MCP; session authorization persists.
+Delivery: addressable ao- name; existing skills and process routes are unchanged.

@@ -1,0 +1,9 @@
+﻿Repository: https://github.com/addyosmani/agent-skills
+Commit: aeac41d4d005999432bb7312f7ff06383a91d59d
+Source: skills/code-review-and-quality/SKILL.md
+Related references: references/security-checklist.md; references/performance-checklist.md
+License: MIT; LICENSE is an exact byte copy of the repository root license.
+Preserved methods: five axes; code-health approval standard; tests first; meaningful mutation check; structural remedies; concept count over relocated complexity; diff/file-size signals; split strategies; severity taxonomy; verification of author evidence; dependency/changelog/lockfile review; dead-code inventory; facts over taste.
+Preserved examples: inversion mutation; named structural remedies; size signals; review finding template.
+Brain adaptations: Severity/Confidence/Location/Evidence/Fix output; review-only avoids workspace mutation; mutation only in suitable isolated scope; no automatic issues or delegation; existing authorization governs corrections; review-1c owns the 1C artifact and diagnostics; verdict is not release authorization.
+Delivery: addressable ao- name; existing skills and process routes are unchanged.

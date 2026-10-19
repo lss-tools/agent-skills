@@ -1,0 +1,9 @@
+﻿Repository: https://github.com/addyosmani/agent-skills
+Commit: aeac41d4d005999432bb7312f7ff06383a91d59d
+Source: skills/shipping-and-launch/SKILL.md
+Related references: references/definition-of-done.md; references/security-checklist.md; references/performance-checklist.md; references/accessibility-checklist.md
+License: MIT; LICENSE is an exact byte copy of the repository root license.
+Preserved methods: prelaunch readiness axes; deployment versus release; owned finite-life flags; both states tested; staged rollout; baseline advance/hold/rollback; monitoring windows; first-hour checks; error-budget gate; rollback triggers, steps, data and timing; postlaunch verification.
+Preserved examples: OFF/team/canary/full rollout; service threshold table; error-budget bands; dedicated Brain inclusion/return route.
+Brain adaptations: existing authorization is primary; no repeated approval gates; prepare reviewable package before missing release decision; service and text-skill profiles; no invented web metrics/flags for text; old assignments and resident marks preserved; no automatic push or messages; honest pending observation and rollback limits.
+Delivery: addressable ao- name; existing skills and process routes are unchanged.
